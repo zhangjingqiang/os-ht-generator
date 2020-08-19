@@ -1,1 +1,4 @@
 /target
+heat_templates/*
+!heat_templates/.keep
+*.csv

@@ -1,0 +1,3 @@
+Host,Image,Flavor,Security Group,Volume Size,Domain,AZ,Network,Fixed IP
+server1,centos-image,flavor1,["default"],200,example.com,az-east,vlan1,ip1
+server2,ubuntu-image,flavor2,["default"],200,example.com,az-west,vlan2,ip2
